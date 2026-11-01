@@ -2,7 +2,11 @@
 
 ## Project Overview
 This project analyzes a fictional lending company's loan portfolio using Microsoft Excel. The objective is to examine loan exposure, borrower risk categories, repayment performance, and regional differences to support management reporting.
+## Dashboard Preview
 
+![FinServe Excel Dashboard](FinServe_Dashboard.png)
+
+---
 ## Business Problem
 FinServe Lending Co. wants to understand its loan portfolio more clearly, identify potential repayment risks, and compare loan exposure across regions and branches.
 
